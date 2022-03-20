@@ -1,3 +1,4 @@
 Welcome to Hello Git.
 Changed the file.
 Changes
+Changes to lear git reset
