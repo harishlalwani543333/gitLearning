@@ -5,3 +5,7 @@ Changes to lear git reset
 2 - changes to learn git reset
 
 by Harish Lalwani
+
+Like this series?
+
+hello
